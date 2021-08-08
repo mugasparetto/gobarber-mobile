@@ -27,7 +27,22 @@ At this point, the mobile app is restricted to customers.
 [GoBarber Web](https://github.com/mugasparetto/gobarber-web)
 
 ## :computer: Demo
-// WIP
+
+### Customer dashboard
+<h1 align="center">
+  <img alt="GoBarber Web" src="https://user-images.githubusercontent.com/11637616/128635451-5cb37bca-0bd0-40b9-ad6f-9364cf4d6b3a.gif" />
+</h1>
+
+### Barber dashboard
+<h1 align="center">
+  <img alt="GoBarber Web" src="https://user-images.githubusercontent.com/11637616/128636091-fa2f5a60-65f2-40a0-b23a-b7589c5db581.gif" />
+</h1>
+
+### Mobile app
+<p align="center">
+  <img alt="GoBarber Mobile" src="https://user-images.githubusercontent.com/11637616/128637470-7a9222a1-a7d4-4795-b0dc-10331f2f6919.gif" />
+</p>
+<br />
 
 ## :hammer_and_wrench: Features
 * Create a new account
