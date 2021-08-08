@@ -92,6 +92,7 @@ $ yarn ios
 
 ## :heavy_check_mark: Next steps
 - [ ] Error messages below text input fields
+- [ ] Sign out feature
 - [ ] Front end tests
 - [ ] Forgot/reset password feature
 - [ ] Barber dashboard
