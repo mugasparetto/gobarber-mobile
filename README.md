@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="#pencil-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#link-deployed-version">Deployed version</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#hammer_and_wrench-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#space_invader-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,6 +26,17 @@ At this point, the mobile app is restricted to customers.
 
 [GoBarber API](https://github.com/mugasparetto/gobarber-api)<br />
 [GoBarber Web](https://github.com/mugasparetto/gobarber-web)
+
+## :link: Deployed version
+Live version can be found at [gobarberapp.com](https://gobarberapp.com/)<br />
+API was deployed using [Digital Ocean](https://www.digitalocean.com/) and it has a CI/CD set up with GitHub Actions. Web Client was deployed using [Netlify](https://www.netlify.com/)<br />
+Feel free to sign up or try the test accounts below:
+* Customer account
+  * Email: customer@gobarberapp.com
+  * Password: GBTest123
+* Barber account
+  * Email: barber@gobarberapp.com
+  * Password: GBTest123
 
 ## :computer: Demo
 
